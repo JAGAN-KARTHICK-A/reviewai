@@ -1,0 +1,7 @@
+.env
+*.pem
+__pycache__/
+.venv/
+*.pyc
+ai_code_review_architecture.svg
+tmp.txt
