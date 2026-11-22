@@ -130,7 +130,3 @@ backend/
 | `GITHUB_WEBHOOK_SECRET` | Secret for HMAC webhook verification |
 | `GITHUB_PRIVATE_KEY_PATH` | Path to your `.pem` private key file |
 | `ANTHROPIC_API_KEY` | Anthropic API key |
-
-## Resume Bullet
-
-> Built a GitHub App (Python, FastAPI, Anthropic Claude) that automatically reviews pull requests by parsing unified diffs, posting inline comments with severity scoring, and responding to developer follow-up questions. Implemented JWT-based GitHub App auth, HMAC webhook verification, multi-file context analysis, and per-repo YAML configuration. Deployed live as a GitHub App.
